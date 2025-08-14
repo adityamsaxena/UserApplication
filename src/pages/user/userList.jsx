@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { fetchUsers, deleteUser } from "../../service/userService";
 import Button from "../../components/button";
-import Table from "../../components/Table";
+import Table from "../../components/table";
 import Pagination from "../../components/pagination";
 import Loader from "../../components/loader";
 import Heading from "../../components/heading";
