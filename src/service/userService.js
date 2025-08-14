@@ -1,4 +1,4 @@
-import axiosInstance from '../Helper/axiosInterceptors';
+import axiosInstance from '../helper/axiosInterceptors';
 import API_PATHS from './apiPath';
 
 // Fetch users for a specific page
