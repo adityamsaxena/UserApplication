@@ -1,6 +1,6 @@
 import { Navigate } from "react-router-dom";
 import { UserDetail } from "../pages/user/userDetail";
-import { UserList } from "../pages/user/UserList";
+import { UserList } from "../pages/user/userList";
 import HomePage from "../pages/auth/homePage";
 import Sidebar from "../layouts/sidebar";
 import { useState } from "react";
